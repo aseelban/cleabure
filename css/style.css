@@ -19,7 +19,7 @@ header .s-hero-btn {
     font-size: 14px;
     font-weight: 500;
     color: #fff;
-    background-color: hsl(322, 100%, 66%);
+    background-color: #1FB7BF;
     border-radius: 45px;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
     transition: all 0.3s ease 0s;
@@ -34,14 +34,12 @@ header .s-hero-btn {
 header .s-hero-btn:hover {
     background-color: #fff;
     box-shadow: 0px 15px 20px rgba(255, 255, 255, 0.4);
-    color: hsl(322, 100%, 66%);
+    color: #1FB7BF;
     transform: translateY(-7px);
 }
 
 header .f-hero-btn {
     margin: 21px 0 112px 0;
-
-    /*  */
     font-size: 14px;
     font-weight: 500;
     color: #000;
@@ -60,7 +58,7 @@ header .bt {
     text-align: start !important;
 }
 header .f-hero-btn:hover {
-    background-color: hsl(322, 100%, 66%);
+    background-color: #1FB7BF;
     box-shadow: 0px 15px 20px rgba(255, 255, 255, 0.4);
     color: #fff;
     transform: translateY(-7px);
@@ -69,8 +67,8 @@ header .f-hero-btn:hover {
 
 
 header .headr-img {
-    width: 145px;
-    padding: 21px 0 112px 0;
+    width: 13%;
+    height: 135px;
 }
 
 
@@ -555,7 +553,7 @@ header img {
     font-size: 14px;
     font-weight: 500;
     color: #fff;
-    background-color: hsl(322, 100%, 66%);
+    background-color: #1FB7BF;
     border-radius: 45px;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
     transition: all 0.4s ease 0s;
@@ -568,8 +566,8 @@ header img {
 
 .l-section button:hover {
     background-color: #fff;
-    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
-    color: hsl(322, 100%, 66%);
+    box-shadow: 0px 15px 20px rgba(141, 189, 218, 0.4);
+    color: #1FB7BF;
     transform: translateY(-7px);
 }
 
