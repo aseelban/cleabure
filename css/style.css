@@ -110,7 +110,7 @@ header img {
     }
 
     header img {
-        width: 350px;
+        width: 100%;
         margin: 0 auto;
 
 
@@ -142,7 +142,9 @@ header img {
     }
 
     header .headr-img {
-        margin: 5px;
+        width: 140px;
+        margin: 0;
+        margin-top: -15px;
     }
 
 }
@@ -619,7 +621,7 @@ header img {
         font-size: 12px;
         font-weight: 500;
         color: #fff;
-        background-color: hsl(322, 100%, 66%);
+        background-color: #1FB7BF;
         border-radius: 20px;
         box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
         transition: all 0.4s ease 0s;
@@ -628,12 +630,13 @@ header img {
         font-weight: 600;
         padding: 3px 9px;
         margin-top: 4px;
+
     }
 
     .l-section button:hover {
-        background-color: #fefe;
-        box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
-        color: hsl(322, 100%, 66%);
+        background-color: #fff;
+        box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+        color: #1FB7BF;
         transform: translateY(-7px);
     }
 
