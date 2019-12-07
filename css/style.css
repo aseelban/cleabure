@@ -3,6 +3,13 @@
 @import url("https://fonts.google.com/specimen/Open+Sans");
 
 
+/* fix overflow */
+
+html,body {
+    overflow-x: hidden;
+}
+
+
 /* *hero start */
 
 header {
@@ -616,7 +623,7 @@ header img {
 
 
     .l-section button {
-        width: 132px;
+        width: 65%;
         height: 31px;
         font-size: 12px;
         font-weight: 500;
