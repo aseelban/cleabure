@@ -36,6 +36,7 @@ header .s-hero-btn {
     padding: 5px 20px;
     text-align: start !important;
     margin-top: 15px;
+    
 }
 
 header .s-hero-btn:hover {
@@ -58,6 +59,7 @@ header .f-hero-btn {
     outline: none;
     font-weight: 600;
     padding: 6px 33px;
+    border: none;
 }
 
 
@@ -571,6 +573,7 @@ header img {
     font-weight: 600;
     padding: 7px 46px;
     margin-top: 10px;
+    border: none;
 }
 
 .l-section button:hover {
